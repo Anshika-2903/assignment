@@ -1,0 +1,63 @@
+body {
+   margin: auto;
+   background:rgb(132, 221, 233);
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navbar {
+   margin:auto;
+   border-bottom: rgb(187, 56, 56);
+   width: 728px;
+   padding: 0px 20px 0px 20px ;
+}
+.navbar ul li {
+   float: left;
+   font-size: 16px;
+   font-weight: bold;
+   margin-right: 10px;
+}
+.style_table {
+   background-color: rgb(7, 168, 231);
+   border-collapse: separate;
+   margin: 0px 0px;
+   font-size: 2.3em;
+   font-family: sans-serif;
+   min-width: 200px;
+   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+   
+}
+.style_table thead tr {
+   background-color: #f12b08;
+   color: #e9ec14;
+   text-align: center;
+   border-collapse: separate;
+   padding: 20px 20px 20px 10px;
+}
+.style_table th,
+.style_table td {
+    padding: 40px 100px;
+}
+
+
+.faqs {
+   background-image: url(https://s3.envato.com/files/1c9604d5-7adc-4611-963c-87c50476b2c4/inline_image_preview.jpg);
+   background-color: lightcoral;
+   border: mediumvioletred;
+   margin: 20px;
+   padding: 0px 20px 20px 30px;
+   color: rgb(247, 247, 247);
+   font-size: 130%;
+   
+   box-sizing: border-box;
+
+
+}
+.heads {
+   background-image: url(https://www.safa.sa.gov.au/__data/assets/image/0017/222740/corona2.jpg);
+   height: 500px;
+}
+.navigate {
+   background-image: url(https://www.hhs.gov/sites/default/files/billboard-vaccine-booster-illustration.jpg);
+   height:200px;
+   font-size: 1.5em;  
+   
+}
